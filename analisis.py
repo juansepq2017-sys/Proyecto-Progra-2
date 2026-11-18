@@ -13,4 +13,4 @@ print(df.head(30))
 print("Información general del dataset:")
 print(df.info())
 
-
+# Manejo de Datos Faltantes
