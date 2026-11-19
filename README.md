@@ -4,7 +4,7 @@
 ## 👥 Integrantes del Grupo
 Juan Sebastian Castro Castellanos
 Juan Sebastian Pardo Quintero
-Andres Felipe Gomez Bejarano
+- Andres Felipe Gomez Bejarano
 Juan Esteban Gil 
 
 ---
